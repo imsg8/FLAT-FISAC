@@ -1,5 +1,5 @@
 {
-   "name": "Q1",
+   "name": "SET-6",
    "description": "Turing Machine for Language (0^n)(1^2n)",
    "max_state": 25,
    "symbols": "xyzabc01$@",
