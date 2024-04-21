@@ -1,6 +1,6 @@
 {
-   "name": "FLAT",
-   "description": "",
+   "name": "SET-6",
+   "description": "Turing machine for L={0^n 1^m | n>=0, m>n}",
    "max_state": 25,
    "symbols": "xyzabc01$@",
    "tape": "",
