@@ -1,10 +1,10 @@
 {
-   "name": "SET-6",
-   "description": "Turing machine for L={0^n 1^m | n>=0, m>n}",
+   "name": "SET - 4",
+   "description": "Turing Machine to accept L = {0^n 1^m | n>=0, m>n}",
    "max_state": 25,
    "symbols": "xyzabc01$@",
-   "tape": "",
-   "position": -5,
+   "tape": "00011111",
+   "position": 0,
    "rules": [
       [ 0, "0", "x", 1, "R" ],
       [ 0, "1", "1", "h", "R" ],
