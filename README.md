@@ -1,6 +1,6 @@
 # FLAT-FISAC
 
-Dear Batch 0f 2026 MIT'ians,
+Dear Batch 0f 2026,
 
 All the .json files from Set 0 to 9 have been uploaded to the designated location.
 
