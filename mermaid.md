@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     subgraph GRU
         Input[Inputs: h_{t-1}, x_t]
